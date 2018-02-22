@@ -24,13 +24,13 @@
 
 **Deadline** : 4 days  
 **Language used** :  
-- HTML
+- HTML5
 - PHP
 - JavaScript
 - JQuery
-- Json
+- JSON
 - AJAX
-- CSS
+- CSS3
 
 
 
