@@ -3,9 +3,9 @@
 ## BeCode - PHP project
 
 
- #### Team members:
-  Daria Shcherbak,
-  Bertrand Honner
+ ### Team members:
+  * [Daria Shcherbak](https://github.com/SuperchillB)
+  * [Bertrand Honner](https://github.com/Dara-Shelli)
  
  ### Tasks:
   Daria:
