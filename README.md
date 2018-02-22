@@ -4,7 +4,7 @@
 
 
  ### Team members:
-  Daria Shcherbak
+  Daria Shcherbak,
   Bertrand Honner
  
  ### Tasks:
