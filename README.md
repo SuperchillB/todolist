@@ -1,11 +1,13 @@
 # To Do List
 
+## BeCode - PHP project
 
- ## Team members:
+
+ ### Team members:
   Daria Shcherbak
   Bertrand Honner
  
- ## Tasks:
+ ### Tasks:
   Daria:
   - does something
   -
@@ -14,7 +16,7 @@
   - does a lot
   -
   -
-## Project description
+### Project description
 
 **Deadline** : 4 days  
 **Language used** :  
