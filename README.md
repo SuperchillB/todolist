@@ -14,7 +14,8 @@
   - does something
   -
   -
-  Bertrand 
+  
+  Bertrand:
   - does a lot
   -
   -
