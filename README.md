@@ -6,6 +6,8 @@
  ### Team members:
   * [Daria Shcherbak](https://github.com/SuperchillB)
   * [Bertrand Honner](https://github.com/Dara-Shelli)
+  
+  *****
  
  ### Tasks:
   Daria:
@@ -16,6 +18,8 @@
   - does a lot
   -
   -
+  *****
+  
 ### Project description
 
 **Deadline** : 4 days  
