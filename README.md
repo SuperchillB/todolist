@@ -11,14 +11,14 @@
  
  ### Tasks:
   Daria:
-  - does something
-  -
-  -
+  - Create and prepare README file
+  - Create 3 files: content.php, form.php, todo.json
+  - 
   
   Bertrand:
-  - does a lot
-  -
-  -
+  - Create repo and draft branch
+  - Create Heroku account & setup on working station
+  - 
   *****
   
 ### Project description
