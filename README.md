@@ -1,13 +1,13 @@
-# todolist
+# To Do List
 
 
  ## Team members:
- - Daria Shcherbak
- - Bertrand Honner
+  Daria Shcherbak
+  Bertrand Honner
  
  ## Tasks:
   Daria:
-  - do something
+  - does something
   -
   -
   Bertrand 
@@ -19,12 +19,12 @@
 **Deadline** : 4 days  
 **Language used** :  
 - HTML
-- CSS
+- PHP
 - JavaScript
 - JQuery
 - Json
 - AJAX
-- 
+- CSS
 
 
 
