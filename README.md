@@ -4,8 +4,8 @@
 
 
  ### Team members:
-  * [Daria Shcherbak](https://github.com/SuperchillB)
-  * [Bertrand Honner](https://github.com/Dara-Shelli)
+  * [Daria Shcherbak](https://github.com/Dara-Shelli)
+  * [Bertrand Honner](https://github.com/SuperchillB)
   
   *****
  
